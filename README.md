@@ -11,7 +11,7 @@ Description from [Hannah's Github page](https://github.com/hpullenblasnik/csc-pu
 
 
 **This repository contains the following materials:**
-  1. BarnardCSC_interactive.Rmd: &ensp; R activity
-  2. BarnardCSC_withanswers.Rmd: &ensp; R activity with answers
-  3. BarnardCSC_withanswers.pdf: &ensp; PDF version of the R activity with answers
-  4. data folder: &ensp; Folder containing R activity inputs and outputs
+  1. data folder: &ensp; Folder containing R activity inputs and outputs
+  2. BarnardCSC_interactive.Rmd: &ensp; R activity
+  3. BarnardCSC_withanswers.Rmd: &ensp; R activity with answers
+  4. BarnardCSC_withanswers.pdf: &ensp; PDF version of the R activity with answers
